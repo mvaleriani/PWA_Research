@@ -1,0 +1,6 @@
+{
+    "name": "Demo PWA - Michael Valeriani",
+    "short_name": "DemoPWA",
+    "start_url": "/index.html",
+    "scope": ".",
+}

@@ -23,6 +23,7 @@
   bottom: 0;
   right: 0;
   padding: 30px;
+  box-shadow: none;
 }
 
 .input-section {
